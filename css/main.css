@@ -12,6 +12,14 @@
   color: #fff;
 }
 
+
+#logo{
+  width: 45px;
+  position: absolute;
+  top:0;
+  margin:10px;
+}
+
 ::selection {
   background-color: #7a77ff;
   color: #fff;
