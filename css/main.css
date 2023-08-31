@@ -2623,3 +2623,9 @@ h6 {
 .switch-wrap p {
   margin: 0;
 }
+
+.text-underpicture{
+  color:white;
+  font-size:bolder;
+  text-shadow: 2px 2px #000000;
+}
